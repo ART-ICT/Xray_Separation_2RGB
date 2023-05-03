@@ -1,4 +1,4 @@
-# Xray_Separation_2RGB_log-model
+# Xray_Separation_2RGB
 <i> Software for mixed X-ray image separaration when 2 visible images are available (e.g. double-sided paintings)</i>
 
 
