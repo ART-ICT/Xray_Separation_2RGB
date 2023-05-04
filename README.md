@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7896437.svg)](https://doi.org/10.5281/zenodo.7896437)
+
 # Xray_Separation_2RGB
 <i> Software for mixed X-ray image separaration when 2 visible images are available (e.g. double-sided paintings)</i>
 
